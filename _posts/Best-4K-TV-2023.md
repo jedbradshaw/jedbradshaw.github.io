@@ -5,5 +5,5 @@ The best TV for 2023 is the SamSAMSUNG QN55QN90BAFXZA 55" QLED Quantum Matrix Ne
 
 * Glare free and the best viewing angles.
 * Around $1,000
-⋅⋅* One of the only 4K tvs at this price point to have 120hz
+  * One of the only 4K tvs at this price point to have 120hz
 * HDR and Dolby Atmos capable
