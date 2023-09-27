@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: This is what awesome looks like
 ---
+<img width="190" alt="Screenshot 2023-09-27 at 12 27 50 PM" src="https://github.com/jedbradshaw/jedbradshaw.github.io/assets/5170695/f843c9c3-a227-479d-b173-0a1fe063a101">
+My name is Jed Bradshaw. I have the following qualities:
 
-My name is Inigo Montoya. I have the following qualities:
+- Loyal
+- Survivor
+- Empathetic
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
