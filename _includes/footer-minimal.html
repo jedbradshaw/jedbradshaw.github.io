@@ -7,7 +7,7 @@
     {% if page.date %}
       {{ page.date }}
     {% else %}
-      <p>©️</p>{{ site.time | date: '%Y' }}
+      <p class="copyright text-muted">©️</p>{{ site.time | date: '%Y' }}
     {% endif %}
 
     {% if site.url-pretty %}
