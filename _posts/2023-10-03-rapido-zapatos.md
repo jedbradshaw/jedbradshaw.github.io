@@ -5,11 +5,8 @@ title: Rapido Zapatos
 tags: [business name, laugh]
 comments: false
 ---
-Rápido zapatos: quick shoes
-Zapatos rápidos: Fast shoes
+Rápido zapatos: quick shoes.
 
-Business name for an athletic sneaker company. 
+Zapatos rápidos: Fast shoes.
 
-> All rights reserved 
-
-tags: 
+> Business name for an athletic sneaker company.  ©️ All rights reserved 
